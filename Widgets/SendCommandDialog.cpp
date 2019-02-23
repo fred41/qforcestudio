@@ -28,7 +28,7 @@
 #include "SendCommandDialog.h"
 #include "ui_SendCommandDialog.h"
 #include <math.h>
-#include <QRegExp>
+#include <QRegularExpression>
 #include <QDebug>
 
 
